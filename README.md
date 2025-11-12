@@ -62,7 +62,7 @@ a pour solution : [1, -1, 0, 0]
 
 ## Code fourni
 
-Le code initialement fourni étiat un petit module de géométrie : *geo*.
+Le code initialement fourni était un petit module de géométrie : *geo*.
 
 Celui-ci contient toutes les classes de base (points, segments, polygones) ainsi qu'un module d'affichage à base de *tycat*.
 Tous les objets de base sont affichables ainsi que les itérables et itérateurs sur des objets de base.
